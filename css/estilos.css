@@ -1,0 +1,11 @@
+input {
+    padding: 2%; /* comentarios */
+    border-color: rgba(255, 99, 71, 0.5); /* comentarios */
+    margin: 10%; /* comentarios */
+    color: green; /* comentarios */
+}
+
+label {
+    color:red;
+    font-size: x-large;
+}
